@@ -28,5 +28,14 @@ print 'Hello'
 print 'world'
 }
 }
+  
+stage ('Deploy2'){
+steps{
+print 'Hello'
+print 'world2'
+}
+}
+  
+  
 } 
 } 
